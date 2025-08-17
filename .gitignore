@@ -1,0 +1,39 @@
+# Built files
+/build/
+/.cxx/
+/captures/
+/.externalNativeBuild/
+
+# Gradle
+.gradle/
+local.properties
+*.log
+
+# IDE
+.idea/
+/*.iml
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android Studio
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.idea/misc.xml
+.idea/gradle.xml
+
+# Keystore (optional if using debug/release signing keys)
+*.jks
+*.keystore
+
+# Kotlin/Java
+*.class
+
+# Node / JS (if you ever add JS tooling)
+node_modules/
